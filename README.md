@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rasulov Rakhmatullokh
-- 👀 I’m interested in Js, React alse Scating and anime
+- 👀 I’m interested in Js, React also Scating and anime
 - 🌱 I’m currently learning ExpressJs
 
 <!---
