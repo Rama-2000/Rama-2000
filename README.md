@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rasulov Ralhmatullokh
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rasulov Rakhmatullokh
 ========================================================================================================================================
 
 I am Front End developer.
 --------------------------
 
-*   🌍  I'm based in Tashkent, Uzbekistan
+*   🌍  I'm based in Novosibirsk, Rossia
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://rasulov-rakhmatullo-porfolio.netlify.app/'>Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
