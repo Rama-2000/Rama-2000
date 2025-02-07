@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Front End developer.
 --------------------------
 
-*   🌍  I'm based in Novosibirsk, Rossia
+*   🌍  I'm based in Novosibirsk, Russia
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://rasulov-rakhmatullo-porfolio.netlify.app/'>Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
